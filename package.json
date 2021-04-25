@@ -1,0 +1,23 @@
+{
+  "name": "@jhonnygo/prestashop-installer",
+  "version": "1.7.7-3",
+  "description": "This project allows you to quickly install a fully functional prestashop store for testing or for any other purpose by selecting the desired version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnygo/prestashop-installer.git"
+  },
+  "keywords": [
+    "prestashop",
+    "installer"
+  ],
+  "author": "Jhonny A. Gomez S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonnygo/prestashop-installer/issues"
+  },
+  "homepage": "https://github.com/jhonnygo/prestashop-installer#readme"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "jhoncytech/prestashop-installer",
+    "description": "Prestashop Installer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhonny A. Gomez S.",
+            "email": "jhonny@jhoncytech.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
